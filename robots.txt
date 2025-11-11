@@ -7,7 +7,7 @@ Allow: /
 # Crawl-delay: 10
 
 # Point crawlers to your sitemap
-Sitemap: https://rizvanarodiya.dev/sitemap.xml
+Sitemap:https://portfoliorizvan07.netlify.app/sitemap.xml
 
 # Host directive (optional, some bots respect it)
-Host: rizvanarodiya.dev
+Host: portfoliorizvan07.netlify.app
