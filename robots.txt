@@ -1,0 +1,13 @@
+# robots.txt for Rizvan Arodiya - Full Stack Developer
+# Allow all crawlers to index the site
+User-agent: *
+Allow: /
+
+# Optional crawl-delay (uncomment if you need a delay)
+# Crawl-delay: 10
+
+# Point crawlers to your sitemap
+Sitemap: https://rizvanarodiya.dev/sitemap.xml
+
+# Host directive (optional, some bots respect it)
+Host: rizvanarodiya.dev
