@@ -1,50 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Homepage -->
+  <!-- Homepage - Single Page Application -->
   <url>
     <loc>https://portfoliorizvan07.netlify.app/</loc>
-    <lastmod>2025-11-11</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
-
-  <!-- Sections (for single-page sites it's common to list main anchors as separate URLs if they exist as separate pages;
-       here we use clean paths assuming you might host anchor-scrollable single page) -->
-  <url>
-    <loc>https://portfoliorizvan07.netlify.app/about</loc>
-    <lastmod>2025-11-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://portfoliorizvan07.netlify.app/services</loc>
-    <lastmod>2025-11-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://portfoliorizvan07.netlify.app/portfolio</loc>
-    <lastmod>2025-11-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://portfoliorizvan07.netlify.app/contact</loc>
-    <lastmod>2025-11-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.64</priority>
-  </url>
-
-  <!-- Example project pages (uncomment / copy and update if you have real project pages) -->
-  <!--
-  <url>
-    <loc>https://rizvanarodiya.dev/projects/hostel-manage</loc>
-    <lastmod>2025-11-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.50</priority>
-  </url>
-  -->
 </urlset>

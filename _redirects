@@ -1,0 +1,7 @@
+# Netlify redirects file
+# Redirect all routes to index.html for SPA routing (if needed in future)
+# Currently, the site is a single-page app, so only the root URL is needed
+
+# Ensure sitemap.xml is accessible
+/sitemap.xml  /sitemap.xml  200
+
