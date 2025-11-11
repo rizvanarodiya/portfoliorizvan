@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Homepage -->
   <url>
-    <loc>https://rizvanarodiya.dev/</loc>
+    <loc>https://portfoliorizvan07.netlify.app/</loc>
     <lastmod>2025-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
@@ -11,28 +11,28 @@
   <!-- Sections (for single-page sites it's common to list main anchors as separate URLs if they exist as separate pages;
        here we use clean paths assuming you might host anchor-scrollable single page) -->
   <url>
-    <loc>https://rizvanarodiya.dev/about</loc>
+    <loc>https://portfoliorizvan07.netlify.app/about</loc>
     <lastmod>2025-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
-    <loc>https://rizvanarodiya.dev/services</loc>
+    <loc>https://portfoliorizvan07.netlify.app/services</loc>
     <lastmod>2025-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
-    <loc>https://rizvanarodiya.dev/portfolio</loc>
+    <loc>https://portfoliorizvan07.netlify.app/portfolio</loc>
     <lastmod>2025-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
-    <loc>https://rizvanarodiya.dev/contact</loc>
+    <loc>https://portfoliorizvan07.netlify.app/contact</loc>
     <lastmod>2025-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.64</priority>
